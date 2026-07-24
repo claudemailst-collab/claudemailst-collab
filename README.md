@@ -13,9 +13,9 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 ### Realizacje — kod + podgląd na żywo
 | Projekt | Co to | Podgląd |
 |---|---|---|
-| [biotarget](https://github.com/claudemailst-collab/biotarget) | sklep eko/bio + superfoods (WooCommerce) | [biotarget.talarowski.dev](https://biotarget.talarowski.dev) |
-| [fitnessworld](https://github.com/claudemailst-collab/fitnessworld) | sklep + strona klubu fitness (karnety) | [fitnessworld.talarowski.dev](https://fitnessworld.talarowski.dev) |
-| [instalacje-dworzynski](https://github.com/claudemailst-collab/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
+| [biotarget](https://github.com/talarowski-dev/biotarget) | sklep eko/bio + superfoods (WooCommerce) | [biotarget.talarowski.dev](https://biotarget.talarowski.dev) |
+| [fitnessworld](https://github.com/talarowski-dev/fitnessworld) | sklep + strona klubu fitness (karnety) | [fitnessworld.talarowski.dev](https://fitnessworld.talarowski.dev) |
+| [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
 
 ### Stack
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `Node` · `Playwright`
