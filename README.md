@@ -13,6 +13,8 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 ### Realizacje — kod + podgląd na żywo
 | Projekt | Co to | Podgląd |
 |---|---|---|
+| [aeroprint](https://github.com/talarowski-dev/aeroprint) | sklep lotniczy: warianty A4/A3/B2, InPost, VAT OSS (WooCommerce) | [aeroprint.talarowski.dev](https://aeroprint.talarowski.dev) |
+| [brukclean](https://github.com/talarowski-dev/brukclean) | wzorzec podstron lokalnych pod SEO (WordPress + Elementor) | [brukclean.talarowski.dev](https://brukclean.talarowski.dev) |
 | [biotarget](https://github.com/talarowski-dev/biotarget) | sklep eko/bio + superfoods (WooCommerce) | [biotarget.talarowski.dev](https://biotarget.talarowski.dev) |
 | [fitnessworld](https://github.com/talarowski-dev/fitnessworld) | sklep + strona klubu fitness (karnety) | [fitnessworld.talarowski.dev](https://fitnessworld.talarowski.dev) |
 | [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
