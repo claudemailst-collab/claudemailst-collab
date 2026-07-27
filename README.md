@@ -17,6 +17,7 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [brukclean](https://github.com/talarowski-dev/brukclean) | wzorzec podstron lokalnych pod SEO (WordPress + Elementor) | [brukclean.talarowski.dev](https://brukclean.talarowski.dev) |
 | [biotarget](https://github.com/talarowski-dev/biotarget) | sklep eko/bio + superfoods (WooCommerce) | [biotarget.talarowski.dev](https://biotarget.talarowski.dev) |
 | [fitnessworld](https://github.com/talarowski-dev/fitnessworld) | sklep + strona klubu fitness (karnety) | [fitnessworld.talarowski.dev](https://fitnessworld.talarowski.dev) |
+| [beautiona](https://github.com/talarowski-dev/beautiona) | sklep hurtowy B2B kosmetyków: progi ilościowe, grupy rabatowe, ceny brutto i netto (statyk) | [beautiona.talarowski.dev](https://beautiona.talarowski.dev) |
 | [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
 
 ### Stack
