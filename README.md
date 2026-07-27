@@ -22,7 +22,7 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [marszruta](https://github.com/talarowski-dev/marszruta) | strona marki osobistej eksperta: blog, newsletter beehiiv, dane strukturalne (WordPress) | [marszruta.talarowski.dev](https://marszruta.talarowski.dev) |
 | [iteracja](https://github.com/talarowski-dev/iteracja) | podstrona warsztatu: program w blokach godzinowych, terminy, zapisy (WordPress) | [iteracja.talarowski.dev](https://iteracja.talarowski.dev) |
 | [cgu](https://github.com/talarowski-dev/cgu) | strona B2B partnera ERP enova365: obszary systemu i branże jako osobne adresy, harmonogram wdrożenia (WordPress) | [cgu.talarowski.dev](https://cgu.talarowski.dev/) |
-| [sklepdekoratora](https://github.com/talarowski-dev/sklepdekoratora) | projekt nowego wyglądu sklepu z dekoracjami balonowymi: próbnik odcieni zamiast listy nazw, punkty koloru na zdjęciu realizacji, przelicznik girlandy (Shoper Storefront) | [sklepdekoratora.talarowski.dev](https://sklepdekoratora.talarowski.dev/) |
+| [barwnica](https://github.com/talarowski-dev/barwnica) | makieta sklepu z dekoracjami balonowymi: próbnik odcieni zamiast listy nazw, punkty koloru na zdjęciu realizacji, przelicznik girlandy (Shoper Storefront) | [barwnica.talarowski.dev](https://barwnica.talarowski.dev/) |
 
 ### Stack
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `Node` · `Playwright`
