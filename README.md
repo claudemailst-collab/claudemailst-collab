@@ -21,7 +21,7 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
 | [marszruta](https://github.com/talarowski-dev/marszruta) | strona marki osobistej eksperta: blog, newsletter beehiiv, dane strukturalne (WordPress) | [marszruta.talarowski.dev](https://marszruta.talarowski.dev) |
 | [iteracja](https://github.com/talarowski-dev/iteracja) | podstrona warsztatu: program w blokach godzinowych, terminy, zapisy (WordPress) | [iteracja.talarowski.dev](https://iteracja.talarowski.dev) |
-| [cgu](https://github.com/talarowski-dev/cgu) | strona B2B partnera ERP enova365: obszary systemu i branże jako osobne adresy, harmonogram wdrożenia (WordPress) | [cgu.talarowski.dev](https://cgu.talarowski.dev/) |
+| [ewiden](https://github.com/talarowski-dev/ewiden) | makieta strony B2B partnera ERP: obszary systemu i branże jako osobne adresy, schemat przepływu danych (WordPress) | [ewiden.talarowski.dev](https://ewiden.talarowski.dev/) |
 | [barwnica](https://github.com/talarowski-dev/barwnica) | makieta sklepu z dekoracjami balonowymi: próbnik odcieni zamiast listy nazw, punkty koloru na zdjęciu realizacji, przelicznik girlandy (Shoper Storefront) | [barwnica.talarowski.dev](https://barwnica.talarowski.dev/) |
 
 ### Stack
