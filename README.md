@@ -21,6 +21,7 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
 | [letar](https://github.com/talarowski-dev/letar) | strona marki osobistej doradczyni: blog, newsletter beehiiv, dane strukturalne (WordPress) | [letar.talarowski.dev](https://letar.talarowski.dev) |
 | [agilehats](https://github.com/talarowski-dev/agilehats) | podstrona warsztatu: program w blokach godzinowych, terminy, zapisy (WordPress) | [agilehats.talarowski.dev](https://agilehats.talarowski.dev) |
+| [cgu](https://github.com/talarowski-dev/cgu) | strona B2B partnera ERP enova365: obszary systemu i branże jako osobne adresy, harmonogram wdrożenia (WordPress) | [cgu.talarowski.dev](https://cgu.talarowski.dev) |
 
 ### Stack
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `Node` · `Playwright`
