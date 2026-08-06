@@ -23,6 +23,9 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [iteracja](https://github.com/talarowski-dev/iteracja) | podstrona warsztatu: program w blokach godzinowych, terminy, zapisy (WordPress) | [iteracja.talarowski.dev](https://iteracja.talarowski.dev) |
 | [ewiden](https://github.com/talarowski-dev/ewiden) | makieta strony B2B partnera ERP: obszary systemu i branże jako osobne adresy, schemat przepływu danych (WordPress) | [ewiden.talarowski.dev](https://ewiden.talarowski.dev/) |
 | [barwnica](https://github.com/talarowski-dev/barwnica) | makieta sklepu z dekoracjami balonowymi: próbnik odcieni zamiast listy nazw, punkty koloru na zdjęciu realizacji, przelicznik girlandy (Shoper Storefront) | [barwnica.talarowski.dev](https://barwnica.talarowski.dev/) |
+| [prostnica](https://github.com/talarowski-dev/prostnica) | przebudowa sklepu z narzędziami do drewna pod skrócenie ścieżki zakupowej: zakup z pierwszego ekranu, filtr po robocie do wykonania, rysunek wykonawczy reagujący na wariant (Shoper Storefront) | [prostnica.talarowski.dev](https://prostnica.talarowski.dev/) |
+| [energolead](https://github.com/talarowski-dev/energolead) | aplikacja CRM z widocznością rekordu sterowaną etapem obiegu: kontrola dostępu rozstrzygana na serwerze, import bazy z CSV, dziennik zdarzeń (Node bez zależności) | [energolead.talarowski.dev](https://energolead.talarowski.dev/) |
+| [tomik](https://github.com/talarowski-dev/tomik) | jednostronicowa prezentacja książki: filary jako rozdziały rozwijane, działające pole na własną odpowiedź z zapisem w przeglądarce, rachunek liczony na żywo (statyk bez frameworka) | [tomik.talarowski.dev](https://tomik.talarowski.dev/) |
 
 ### Stack
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `Node` · `Playwright`
